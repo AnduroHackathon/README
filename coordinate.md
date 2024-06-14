@@ -16,4 +16,4 @@ CBTC(s) allow users to perform Bitcoin-like transactions on the Coordinate sidec
  - [Coordinate Wallet (chrome)](https://chromewebstore.google.com/detail/anduro-wallet/khebhoaoppjeidmdkpdglmlhghnooijn?pli=1)
  - [Coordinate Block Explorer](https://testnet.coordiscan.io)
  - [CBTC Faucet](https://faucet.coordiscan.io)
- - [Paul Sztorc - Bit Assets](https://www.truthcoin.info/blog/bit-assets/))
+ - [Paul Sztorc - Bit Assets](https://www.truthcoin.info/blog/bit-assets/)
