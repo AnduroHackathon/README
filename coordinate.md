@@ -12,7 +12,8 @@ CBTC(s) allow users to perform Bitcoin-like transactions on the Coordinate sidec
 *All Anduro sidechains remain in a closed beta. Registrants of this hackathon will be receiving exclusive pre-launch access and are among the first to innovate on the Anduro ecosystem*
 
 ## Links
-[Coordinate Sidechain Node (SRC)](https://github.com/AnduroHackathon/coordinate-node)
-[Coordinate Wallet (chrome)](https://chromewebstore.google.com/detail/anduro-wallet/khebhoaoppjeidmdkpdglmlhghnooijn?pli=1)
-[CBTC Faucet](https://faucet.coordiscan.io)
-[Paul Sztorc - Bit Assets](https://www.truthcoin.info/blog/bit-assets/))
+ - [Coordinate Sidechain Node (SRC)](https://github.com/AnduroHackathon/coordinate-node)
+ - [Coordinate Wallet (chrome)](https://chromewebstore.google.com/detail/anduro-wallet/khebhoaoppjeidmdkpdglmlhghnooijn?pli=1)
+ - [Coordinate Block Explorer](https://testnet.coordiscan.io)
+ - [CBTC Faucet](https://faucet.coordiscan.io)
+ - [Paul Sztorc - Bit Assets](https://www.truthcoin.info/blog/bit-assets/))
